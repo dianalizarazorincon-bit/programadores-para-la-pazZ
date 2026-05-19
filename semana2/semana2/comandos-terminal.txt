@@ -1,0 +1,12 @@
+Nombre Diana Marcela Lizarazo Rincon 
+Desarrollo Actividad 1 
+programadores-para-la-paz
+
+Pregunta 5 — Actividad práctica de algoritmia
+Algoritmo: Cómo compartir información confiable en internet
+1.	Buscar la información en múltiples fuentes (noticias, sitios oficiales, medios reconocidos).
+2.	Revisar la fuente para verificar que sea confiable, actualizada y de autoridad comprobada.
+3.	Confirmar la noticia contrastándola con al menos dos fuentes independientes y verificando la fecha.
+4.	Evaluar el contenido buscando señales de desinformación (títulos sensacionalistas, errores graves, falta de autoría).
+5.	Proteger datos personales antes de compartir (no revelar información privada propia o ajena).
+6.	Compartir con responsabilidad agregando contexto, citando fuentes y evitando cadenas o mensajes sin verificar.
