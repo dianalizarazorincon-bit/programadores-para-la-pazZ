@@ -1,3 +1,7 @@
+Nombre Diana Marcela Lizarazo Rincon 
+Desarrollo Actividad 2 
+programadores-para-la-paz
+
 Es importante que un desarrollador sepa usar la terminal porque permite navegar rápidamente entre carpetas y archivos dentro de un proyecto
 También ayuda a crear, mover o eliminar archivos de forma eficiente. La terminal es fundamental para trabajar con herramientas como Git 
 y gestionar versiones del código. Además, muchos entornos de desarrollo utilizan comandos para instalar programas o ejecutar proyectos. 
