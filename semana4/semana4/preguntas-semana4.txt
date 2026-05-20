@@ -1,0 +1,22 @@
+Nombre Diana Marcela Lizarazo Rincon 
+Desarrollo Actividad 4 
+programadores-para-la-paz
+Pregunta 1
+
+¿Qué es Node.js?
+✔️ Un entorno que permite ejecutar JavaScript en el servidor
+
+ Pregunta 2
+
+¿Qué hace el comando npm init?
+✔️ Inicializa un proyecto Node.js creando el archivo package.json
+
+Pregunta 3
+
+¿Qué es Express en Node.js?
+✔️ Un framework para construir servidores y APIs en Node.js
+
+ Pregunta 4
+
+¿Qué hace una ruta en una aplicación web?
+✔️ Define cómo responde el servidor cuando un usuario accede a una URL
