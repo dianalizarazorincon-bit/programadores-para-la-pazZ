@@ -1,0 +1,9 @@
+Nombre Diana Marcela Lizarazo Rincon 
+Desarrollo Actividad 4 
+programadores-para-la-paz
+Es importante que las comunidades o iniciativas ciudadanas puedan construir herramientas tecnológicas propias utilizando tecnologías abiertas como Node.js 
+porque esto fortalece su autonomía y capacidad de respuesta ante necesidades locales. Además, permite desarrollar soluciones adaptadas a contextos específicos 
+sin depender totalmente de plataformas externas. El acceso a tecnologías abiertas fomenta la innovación, el aprendizaje y el trabajo colaborativo. También contribuye 
+a reducir barreras económicas, ya que muchas herramientas son gratuitas. Esto favorece la participación ciudadana y el desarrollo de proyectos con impacto social.
+Asimismo, ayuda a crear espacios digitales más inclusivos y accesibles. La tecnología puede convertirse en una herramienta para resolver problemas comunitarios y 
+fortalecer procesos de comunicación y organización.
