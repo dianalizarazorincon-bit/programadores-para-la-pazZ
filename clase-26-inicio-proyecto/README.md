@@ -2,7 +2,7 @@
 
 ## Identidad del proyecto
 
-Nombre del estudiante:
+Nombre del estudiante: Diana Marcela Lizarazo Rincon 
 
 Nombre de la plataforma: Plataforma Juvenil de Participación
 
