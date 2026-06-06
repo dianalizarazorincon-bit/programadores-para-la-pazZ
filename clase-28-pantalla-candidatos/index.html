@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Clase 28 - Pantalla de Candidatos</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Pantalla de Candidatos - Clase 28</h1>
+  </header>
+
+  <main>
+    <section class="intro">
+      <p>
+        En esta clase construimos la pantalla de candidatos para la plataforma
+        de participación juvenil.
+      </p>
+    </section>
+
+    <section class="perfiles">
+      <h2>Perfiles de participación</h2>
+
+      <aside class="advertencia-perfiles">
+        <p>
+          Esta sección presenta perfiles ficticios creados con fines pedagógicos.
+          No corresponde a una elección real y no debe usar datos personales reales.
+        </p>
+      </aside>
+
+      <div id="candidatos" class="candidatos">
+        <article class="perfil">
+          <h3>Perfil Transparencia Juvenil</h3>
+          <p><strong>Rol:</strong> Candidato pedagógico</p>
+
+          <div class="propuesta">
+            <strong>Propuesta:</strong> Promover información clara, participación juvenil
+            y trazabilidad en los procesos comunitarios.
+          </div>
+
+          <p><strong>Estado:</strong> Perfil de práctica académica</p>
+
+          <button class="btnPerfil" data-perfil="Transparencia Juvenil">
+            Ver información
+          </button>
+        </article>
+
+        <article class="perfil">
+          <h3>Perfil Comunidad Digital</h3>
+          <p><strong>Rol:</strong> Candidato pedagógico</p>
+
+          <div class="propuesta">
+            <strong>Propuesta:</strong> Fortalecer el uso responsable de herramientas digitales
+            para la organización y la comunicación comunitaria.
+          </div>
+
+          <p><strong>Estado:</strong> Perfil de práctica académica</p>
+
+          <button class="btnPerfil" data-perfil="Comunidad Digital">
+            Ver información
+          </button>
+        </article>
+
+        <article class="perfil">
+          <h3>Perfil Derechos y Participación</h3>
+          <p><strong>Rol:</strong> Candidato pedagógico</p>
+
+          <div class="propuesta">
+            <strong>Propuesta:</strong> Impulsar el cuidado de datos, el respeto por los derechos
+            y la participación informada.
+          </div>
+
+          <p><strong>Estado:</strong> Perfil de práctica académica</p>
+
+          <button class="btnPerfil" data-perfil="Derechos y Participación">
+            Ver información
+          </button>
+        </article>
+      </div>
+
+      <div id="detallePerfil" class="detalle-perfil"></div>
+      </div>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
