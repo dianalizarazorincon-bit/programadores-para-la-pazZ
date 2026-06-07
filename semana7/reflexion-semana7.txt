@@ -1,0 +1,7 @@
+¿Por qué es importante que las comunidades puedan registrar y consultar reportes o incidencias en una plataforma tecnológica?
+Las plataformas tecnológicas para registrar y consultar reportes e incidencias son fundamentales para fortalecer la comunicación y la participación ciudadana. 
+Permiten que los miembros de la comunidad documenten problemas de manera organizada y transparente, generando un registro histórico que facilita el seguimiento y la resolución de conflictos.
+Esto democratiza el acceso a la información, permitiendo que cualquier persona pueda conocer qué problemas existen en su territorio y cómo se están abordando. 
+Además, estas plataformas favorecen la rendición de cuentas de las autoridades y facilitan la identificación de patrones de incidencias para implementar soluciones preventivas.
+La centralización de reportes en una base de datos accesible fortalece la confianza comunitaria y promueve la gobernanza participativa, 
+haciendo que las comunidades sean más resilientes y mejor organizadas frente a sus desafíos.
