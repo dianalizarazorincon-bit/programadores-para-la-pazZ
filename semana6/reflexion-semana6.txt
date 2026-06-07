@@ -1,0 +1,6 @@
+Es importante que las plataformas tecnológicas puedan recibir reportes o información de forma estructurada porque esto permite organizar mejor los datos y procesarlos de manera eficiente.
+Cuando la información se envía siguiendo un formato definido, se reducen los errores y se facilita su análisis. Además, ayuda a que las instituciones o comunidades 
+respondan más rápido a las necesidades de los ciudadanos. Los reportes estructurados permiten identificar problemas, tendencias y oportunidades de mejora.
+También facilitan la transparencia y el seguimiento de las solicitudes realizadas. De esta manera, la información puede ser compartida entre diferentes sistemas sin confusiones. 
+En las comunidades, esto contribuye a una mejor comunicación y coordinación. Las plataformas pueden tomar decisiones más informadas y brindar soluciones oportunas. Por estas razones, 
+la organización de los datos es fundamental para el buen funcionamiento de los servicios digitales.
