@@ -1,0 +1,32 @@
+Para instalar dependencias y ejecutar el servidor:
+
+npm install
+npm start
+
+El servidor escuchará en http://localhost:3000 por defecto.
+
+Rutas de prueba:
+
+- http://localhost:3000
+- http://localhost:3000/estado
+
+Puedes probar con curl:
+
+curl http://localhost:3000/estado
+ 
+Qué ocurre cuando ejecutas `node server.js`:
+
+Al ejecutar `node server.js` se inicia el proceso de Node.js que carga la aplicación `server.js`, Express monta las rutas y el servidor queda a la escucha en el puerto 3000.
+
+Qué mensaje aparece en la terminal:
+
+`Servidor ejecutándose en puerto 3000`
+
+Qué sucede cuando visitas la ruta `/estado`:
+
+Al visitar `http://localhost:3000/estado` el servidor responde con un objeto JSON que indica el estado del servicio. Ejemplo de respuesta:
+
+{
+	"estado": "Servidor funcionando",
+	"servicio": "API comunitaria"
+}

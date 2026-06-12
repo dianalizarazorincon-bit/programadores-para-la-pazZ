@@ -1,0 +1,27 @@
+Componentes principales del servidor:
+
+- Express: framework HTTP.
+- `server.js`: punto de entrada y rutas.
+- Middleware: (por ejemplo, body-parser, cors si se agregan).
+- Rutas: endpoints de la API.
+- Puerto: configuración mediante `process.env.PORT`.
+
+Sistema operativo:
+
+Es la capa base que administra recursos del hardware y permite ejecutar procesos. Provee servicios como red, sistema de archivos y gestión de procesos que necesita el servidor.
+
+Node.js:
+
+Entorno de ejecución de JavaScript en el servidor. Permite ejecutar `server.js`, gestionar dependencias y manejar conexiones HTTP de forma asíncrona.
+
+Aplicación `server.js`:
+
+Contiene la lógica de la aplicación (rutas, middleware y controladores). Es el punto de entrada que configura Express y define cómo responder a las solicitudes.
+
+Puerto:
+
+Número que identifica la interfaz de red donde el servidor escucha peticiones (p. ej. 3000). Permite que clientes y proxys se conecten al servicio.
+
+Logs:
+
+Registros de la actividad del servidor (mensajes, errores, accesos). Son útiles para depurar, auditar y monitorizar el estado del servicio.
