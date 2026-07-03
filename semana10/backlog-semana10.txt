@@ -1,0 +1,5 @@
+1. Como ciudadano quiero reportar una incidencia en tiempo real para dejar evidencia de un caso y apoyar la veeduría comunitaria.
+2. Como coordinador quiero recibir una alerta inmediata por Telegram cuando se registre un nuevo reporte para actuar con rapidez.
+3. Como miembro de la comunidad quiero consultar el historial de reportes para hacer seguimiento a los casos más urgentes.
+4. Como voluntario quiero categorizar incidencias para organizar mejor la información y priorizar atención.
+5. Como líder comunitario quiero generar resúmenes semanales de incidentes para informar a la comunidad y tomar decisiones.

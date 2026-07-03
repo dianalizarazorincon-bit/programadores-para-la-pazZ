@@ -1,0 +1,11 @@
+Flujo simple de automatización con n8n y Telegram:
+
+- ¿Qué evento activa el flujo?
+Evento: cuando se registra un nuevo reporte en la plataforma.
+
+- ¿Qué mensaje se enviaría a Telegram?
+Acción: enviar un mensaje automático al canal o grupo de Telegram.
+Mensaje: "Nuevo reporte recibido. Revisar la incidencia en el sistema lo antes posible."
+
+- ¿Qué información no debería enviarse por seguridad?
+No se debe enviar información sensible como nombres completos, documentos de identidad, direcciones, teléfonos, claves, contraseñas o datos privados de las personas involucradas.
