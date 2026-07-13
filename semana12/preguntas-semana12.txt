@@ -1,0 +1,11 @@
+1. ¿Qué problema quiere resolver el sistema Petición en 3 Clics?
+El sistema busca facilitar que las personas puedan crear y apoyar peticiones de manera rápida, sencilla y digital.
+
+2. ¿Por qué es importante que los ciudadanos puedan apoyar causas desde su celular?
+Porque permite que más personas participen desde cualquier lugar y en poco tiempo, aumentando la organización comunitaria.
+
+3. ¿Qué beneficios trae usar tecnología para la participación ciudadana?
+Trae mayor acceso, rapidez, visibilidad de las causas y una forma más eficiente de organizar apoyos.
+
+4. ¿Qué diferencia hay entre una causa y un apoyo?
+La causa es la petición o problema que se quiere impulsar, mientras que el apoyo es la acción de una persona para respaldarla.

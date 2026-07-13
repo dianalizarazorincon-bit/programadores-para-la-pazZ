@@ -1,0 +1,17 @@
+Modelo de datos simple para el sistema Petición en 3 Clics
+
+Entidad: Causa
+- id: identificador único de la causa
+- titulo: nombre de la causa
+- descripcion: explicación breve del problema o petición
+- fecha: fecha en la que se creó la causa
+
+Entidad: Apoyo
+- id: identificador único del apoyo
+- causa_id: referencia a la causa a la que pertenece
+- nombre: nombre de la persona que apoya
+- fecha: fecha en la que se registró el apoyo
+
+Relación:
+- Una causa puede tener muchos apoyos.
+- Cada apoyo pertenece a una sola causa.
